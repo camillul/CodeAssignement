@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from hos_interfaces/srv/SerializedDeviceCommand.srv
+// generated code does not contain a copyright notice
+
+
+module hos_interfaces {
+  module srv {
+    struct SerializedDeviceCommand_Request {
+      uint32 cmd_id;
+
+      string serialized_command;
+
+      string function_name;
+    };
+    struct SerializedDeviceCommand_Response {
+      boolean is_valid;
+
+      string error;
+    };
+  };
+};

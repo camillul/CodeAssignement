@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from hos_interfaces/srv/BehaviorRequestMoveContainer.srv
+// generated code does not contain a copyright notice
+
+
+module hos_interfaces {
+  module srv {
+    struct BehaviorRequestMoveContainer_Request {
+      string container_id;
+
+      string haive_id;
+
+      uint8 slot;
+    };
+    struct BehaviorRequestMoveContainer_Response {
+      boolean success;
+
+      string error;
+    };
+  };
+};

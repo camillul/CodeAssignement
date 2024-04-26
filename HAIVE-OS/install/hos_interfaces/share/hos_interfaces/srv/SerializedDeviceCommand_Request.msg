@@ -1,0 +1,3 @@
+uint32 cmd_id
+string serialized_command
+string function_name

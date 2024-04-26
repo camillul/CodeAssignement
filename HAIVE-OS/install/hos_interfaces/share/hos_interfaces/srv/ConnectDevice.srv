@@ -1,0 +1,4 @@
+uint32 uid
+---
+bool success
+string error

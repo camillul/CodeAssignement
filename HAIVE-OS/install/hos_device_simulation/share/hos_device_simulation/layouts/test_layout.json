@@ -1,0 +1,41 @@
+{
+  "fleet": "shinkawasaki",
+  "layout": [
+    {
+      "haive_id": "H4001",
+      "position": [
+        1, 
+        1
+      ],
+      "containers": {
+        "C4003": 1,
+        "C4002": 9,
+        "C4001": 11
+      }
+    },
+    {
+      "haive_id": "H4002",
+      "position": [
+        2,
+        2
+      ],
+      "containers": {
+        "C4007": 3,
+        "C4008": 9
+      }
+    },
+    {
+      "haive_id": "H4003",
+      "position": [
+        2,
+        1
+      ],
+      "containers": {
+        "C4005": 1,
+        "C4006": 3,
+        "C4010": 5,
+        "C4011": 11
+      }
+    }
+  ]
+}

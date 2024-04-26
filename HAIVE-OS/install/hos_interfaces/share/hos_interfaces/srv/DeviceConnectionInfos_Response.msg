@@ -1,0 +1,2 @@
+
+ConnectionInfo[] device_infos

@@ -1,0 +1,4 @@
+uint32 cmd_id
+string function_name
+uint8 num_args
+TypedField[] args

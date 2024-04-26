@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "id": "recACFnHI9lUJPqKa",
+      "createdTime": "2023-02-16T04:12:07.000Z",
+      "fields": {
+        "stream": "hall_sensor",
+        "device_types": [
+          "rec3FJ2pb6hUp6KQ2"
+        ],
+        "values": [
+          "value:float32"
+        ],
+        "description": "TODO"
+      }
+    },
+    {
+      "id": "recImfwZ8ampDhQW2",
+      "createdTime": "2023-11-09T09:21:57.000Z",
+      "fields": {
+        "stream": "rfid_info",
+        "device_types": [
+          "recJecSEztzTPlLw1"
+        ],
+        "values": [
+          "info:string"
+        ],
+        "description": "Give container information when rfid is triggered"
+      }
+    }
+  ]
+}

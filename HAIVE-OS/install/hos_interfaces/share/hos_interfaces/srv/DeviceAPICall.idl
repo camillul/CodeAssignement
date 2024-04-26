@@ -1,0 +1,24 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from hos_interfaces/srv/DeviceAPICall.srv
+// generated code does not contain a copyright notice
+
+#include "hos_interfaces/msg/TypedField.idl"
+
+module hos_interfaces {
+  module srv {
+    struct DeviceAPICall_Request {
+      string device_id;
+
+      string function_name;
+
+      sequence<hos_interfaces::msg::TypedField> args;
+    };
+    struct DeviceAPICall_Response {
+      boolean is_valid;
+
+      string error;
+
+      uint32 task_id;
+    };
+  };
+};

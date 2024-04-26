@@ -1,0 +1,38 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from hos_interfaces/msg/state_msgs/P200ContainerState.msg
+// generated code does not contain a copyright notice
+
+
+module hos_interfaces {
+  module msg {
+    struct P200ContainerState {
+      uint8 x_size;
+
+      uint8 y_size;
+
+      sequence<uint16> tips_availaible;
+
+      boolean is_flipped;
+
+      uint8 slot_position;
+
+      string external_resources;
+
+      float temperature;
+
+      boolean is_movable;
+
+      boolean is_connected;
+
+      float last_ping;
+
+      string device_uid;
+
+      boolean is_reconnected;
+
+      string device_type;
+
+      string device_id;
+    };
+  };
+};

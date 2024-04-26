@@ -1,0 +1,333 @@
+{
+  "records": [
+    {
+      "id": "rec97993bMYEXC7n0",
+      "createdTime": "2023-08-30T07:32:26.000Z",
+      "fields": {
+        "ros_state_msg": "PCRState",
+        "device_type": [
+          "recj3JUcLJQ2bOvbq"
+        ],
+        "inheritance": [
+          "DeviceState"
+        ]
+      }
+    },
+    {
+      "id": "rec9YP62iPpsg6BAr",
+      "createdTime": "2023-08-30T07:42:51.000Z",
+      "fields": {
+        "ros_state_msg": "DeviceState",
+        "attributes": [
+          "is_connected:bool",
+          "last_ping:float32",
+          "device_uid:string",
+          "is_reconnected:bool",
+          "device_type:string",
+          "device_id:string"
+        ],
+        "device_type": [
+          "recMNnepB44DJxu3t",
+          "recJecSEztzTPlLw1"
+        ]
+      }
+    },
+    {
+      "id": "recCzs7VcvbJ9Enko",
+      "createdTime": "2023-08-30T02:16:05.000Z",
+      "fields": {
+        "ros_state_msg": "MagnetContainerState",
+        "device_type": [
+          "recFxYM6aGuA3gIWs"
+        ],
+        "inheritance": [
+          "ContainerState"
+        ]
+      }
+    },
+    {
+      "id": "recDGcW4qa5aBuasm",
+      "createdTime": "2023-08-30T02:16:05.000Z",
+      "fields": {
+        "ros_state_msg": "MicroplateState",
+        "device_type": [
+          "recNQBEIbfOm4brep"
+        ],
+        "inheritance": [
+          "DeviceState"
+        ]
+      }
+    },
+    {
+      "id": "recJn5Jb2KXUDsekG",
+      "createdTime": "2023-08-30T02:16:05.000Z",
+      "fields": {
+        "ros_state_msg": "P1000ContainerState",
+        "attributes": [
+          "x_size:uint8",
+          "y_size:uint8",
+          "tips_availaible:uint16[]"
+        ],
+        "device_type": [
+          "recn54Q8omezQ1iUY"
+        ],
+        "inheritance": [
+          "ContainerState"
+        ]
+      }
+    },
+    {
+      "id": "recKPTHjk5zwYrU8R",
+      "createdTime": "2023-08-30T02:16:05.000Z",
+      "fields": {
+        "ros_state_msg": "RefillStationState",
+        "device_type": [
+          "rec6GyRB69Bd5Lo6x"
+        ],
+        "inheritance": [
+          "DeviceState"
+        ]
+      }
+    },
+    {
+      "id": "recOfiy6sVdvylmWO",
+      "createdTime": "2023-08-29T05:01:05.000Z",
+      "fields": {
+        "ros_state_msg": "P200ContainerState",
+        "attributes": [
+          "x_size:uint8",
+          "y_size:uint8",
+          "tips_availaible:uint16[]"
+        ],
+        "device_type": [
+          "recQRJWtAgfwfyFZK"
+        ],
+        "inheritance": [
+          "ContainerState"
+        ]
+      }
+    },
+    {
+      "id": "recQGPcFU0KMnq6Ss",
+      "createdTime": "2023-08-30T02:16:05.000Z",
+      "fields": {
+        "ros_state_msg": "FalconContainerState",
+        "device_type": [
+          "recI7hrTuxQ7fju1Z"
+        ],
+        "inheritance": [
+          "ContainerState"
+        ]
+      }
+    },
+    {
+      "id": "recRXW5JIj8UfswXP",
+      "createdTime": "2023-08-30T02:16:05.000Z",
+      "fields": {
+        "ros_state_msg": "BaseHAIVEState",
+        "device_type": [
+          "recaQ08pfrNeCcpp0"
+        ],
+        "inheritance": [
+          "HaiveState"
+        ]
+      }
+    },
+    {
+      "id": "recRbbtbkzw3NDz0z",
+      "createdTime": "2023-08-30T02:16:05.000Z",
+      "fields": {
+        "ros_state_msg": "P200AttachementContainerState",
+        "device_type": [
+          "recZVNF465BLODWqz"
+        ],
+        "inheritance": [
+          "ContainerState"
+        ]
+      }
+    },
+    {
+      "id": "recVpbEQI19OJRY5r",
+      "createdTime": "2023-08-30T02:16:05.000Z",
+      "fields": {
+        "ros_state_msg": "Tube1500ulState",
+        "device_type": [
+          "recaKeCgIjUY06RmA"
+        ],
+        "inheritance": [
+          "ContainerState"
+        ]
+      }
+    },
+    {
+      "id": "recX9rHr2WNfPNNmA",
+      "createdTime": "2023-08-30T07:42:33.000Z",
+      "fields": {
+        "ros_state_msg": "HaiveState",
+        "attributes": [
+          "x_position:uint8",
+          "y_position:uint8",
+          "turntable_slot:uint8"
+        ],
+        "inheritance": [
+          "DeviceState"
+        ]
+      }
+    },
+    {
+      "id": "recZ7H5UHOcMlEwET",
+      "createdTime": "2023-08-30T02:16:05.000Z",
+      "fields": {
+        "ros_state_msg": "MyCobotState",
+        "device_type": [
+          "recMVzjzuKpvgoD7W"
+        ],
+        "inheritance": [
+          "DeviceState"
+        ]
+      }
+    },
+    {
+      "id": "recgsHE6itd4arMmV",
+      "createdTime": "2023-08-29T05:01:05.000Z",
+      "fields": {
+        "ros_state_msg": "ContainerState",
+        "attributes": [
+          "is_flipped:bool",
+          "slot_position:uint8",
+          "external_resources:string",
+          "temperature:float32",
+          "is_movable:bool",
+          "parent_device:string"
+        ],
+        "inheritance": [
+          "DeviceState"
+        ]
+      }
+    },
+    {
+      "id": "reckI0HMxjzdMQr8A",
+      "createdTime": "2023-08-30T02:16:05.000Z",
+      "fields": {
+        "ros_state_msg": "DisposalContainerState",
+        "device_type": [
+          "recF0MbH6LeIXJPk4"
+        ],
+        "inheritance": [
+          "ContainerState"
+        ]
+      }
+    },
+    {
+      "id": "recltBDp1ZkrEUW6R",
+      "createdTime": "2023-08-30T02:16:05.000Z",
+      "fields": {
+        "ros_state_msg": "P1000AttachementContainerState",
+        "device_type": [
+          "rec526qF3FVvJ1jnc"
+        ],
+        "inheritance": [
+          "ContainerState"
+        ]
+      }
+    },
+    {
+      "id": "recmCdbcERGfUMxiG",
+      "createdTime": "2024-01-26T02:45:09.000Z",
+      "fields": {
+        "ros_state_msg": "Tecan_ADP",
+        "device_type": [
+          "recGUWHAKx3oPWfPq"
+        ],
+        "inheritance": [
+          "DeviceState"
+        ]
+      }
+    },
+    {
+      "id": "recsLWx9LRh84dPdH",
+      "createdTime": "2023-08-30T02:16:05.000Z",
+      "fields": {
+        "ros_state_msg": "HallState",
+        "device_type": [
+          "rec3FJ2pb6hUp6KQ2"
+        ],
+        "inheritance": [
+          "DeviceState"
+        ]
+      }
+    },
+    {
+      "id": "recu4EN2t9Av1wlzq",
+      "createdTime": "2023-10-27T07:10:19.000Z",
+      "fields": {
+        "ros_state_msg": "VortexerState",
+        "attributes": [
+          "rotation_speed:float32"
+        ],
+        "device_type": [
+          "recWkSTOPHGNGbQlN"
+        ],
+        "inheritance": [
+          "DeviceState"
+        ]
+      }
+    },
+    {
+      "id": "recv6oeOd3osBjwRI",
+      "createdTime": "2023-08-29T05:01:05.000Z",
+      "fields": {
+        "ros_state_msg": "DeltaHaiveState",
+        "device_type": [
+          "recmay6QVtEXoTD37"
+        ],
+        "inheritance": [
+          "HaiveState"
+        ]
+      }
+    },
+    {
+      "id": "recvMq7NU6aHRlUox",
+      "createdTime": "2023-08-30T02:16:05.000Z",
+      "fields": {
+        "ros_state_msg": "ThermoState",
+        "device_type": [
+          "recXhARdyvuJ3Yqba"
+        ],
+        "inheritance": [
+          "DeviceState"
+        ]
+      }
+    },
+    {
+      "id": "recyVtAnyCLF2jSZM",
+      "createdTime": "2023-08-30T02:16:05.000Z",
+      "fields": {
+        "ros_state_msg": "MyCobotGripperState",
+        "device_type": [
+          "recwE0s6wUMOp5she"
+        ],
+        "inheritance": [
+          "DeviceState"
+        ]
+      }
+    },
+    {
+      "id": "reczPW9R1MBkGRXJj",
+      "createdTime": "2023-09-12T03:04:19.000Z",
+      "fields": {
+        "ros_state_msg": "TubeState",
+        "attributes": [
+          "liquid_level:float32",
+          "tube_id:string",
+          "tube_type:string",
+          "volume:float32",
+          "temperature:float32"
+        ],
+        "device_type": [
+          "recU0GlUwcjGn4Oip"
+        ]
+      }
+    }
+  ]
+}

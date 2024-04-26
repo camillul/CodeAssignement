@@ -1,0 +1,517 @@
+{
+  "records": [
+    {
+      "id": "rec3FJ2pb6hUp6KQ2",
+      "createdTime": "2023-02-16T04:12:41.000Z",
+      "fields": {
+        "device_type": "HallSensor",
+        "device_role": "Sensor",
+        "description": "TODO",
+        "fleet-shinkawasaki": [
+          "recOo12asqWssngNq"
+        ],
+        "streams": [
+          "recACFnHI9lUJPqKa"
+        ],
+        "serialized_api": true,
+        "robot_state": [
+          "recsLWx9LRh84dPdH"
+        ]
+      }
+    },
+    {
+      "id": "rec526qF3FVvJ1jnc",
+      "createdTime": "2023-02-16T04:12:41.000Z",
+      "fields": {
+        "device_type": "P1000 Attachment",
+        "device_role": "Container",
+        "description": "TODO",
+        "fleet-shinkawasaki": [
+          "recgx0kaGzo3AuIj1"
+        ],
+        "apis": [
+          "recJzsnocyO4cIDOe",
+          "recZLnkHAyzHc6z2s",
+          "reczDHAEgUkJLkcAK",
+          "recK2MzedyicCYDIC"
+        ],
+        "fleet-tsuruoka": [
+          "recOnyL1L4ZwiHyrn"
+        ],
+        "serialized_api": true,
+        "robot_state": [
+          "recltBDp1ZkrEUW6R"
+        ]
+      }
+    },
+    {
+      "id": "rec6GyRB69Bd5Lo6x",
+      "createdTime": "2023-08-28T07:17:47.000Z",
+      "fields": {
+        "device_type": "Refill_station",
+        "device_role": "Haive",
+        "description": "TODO",
+        "apis": [
+          "recZIjbKNiXnSaMDF"
+        ],
+        "serialized_api": true,
+        "robot_state": [
+          "recKPTHjk5zwYrU8R"
+        ]
+      }
+    },
+    {
+      "id": "recF0MbH6LeIXJPk4",
+      "createdTime": "2023-02-16T04:12:41.000Z",
+      "fields": {
+        "device_type": "Disposal",
+        "device_role": "Container",
+        "description": "TODO",
+        "fleet-shinkawasaki": [
+          "recHP1wBHoNZey8mT"
+        ],
+        "apis": [
+          "recJzsnocyO4cIDOe",
+          "recZLnkHAyzHc6z2s",
+          "reczDHAEgUkJLkcAK",
+          "recK2MzedyicCYDIC"
+        ],
+        "fleet-tsuruoka": [
+          "recfFzXsMTosWLYuf"
+        ],
+        "serialized_api": true,
+        "robot_state": [
+          "reckI0HMxjzdMQr8A"
+        ]
+      }
+    },
+    {
+      "id": "recFxYM6aGuA3gIWs",
+      "createdTime": "2023-02-16T04:12:41.000Z",
+      "fields": {
+        "device_type": "Magnet",
+        "device_role": "Container",
+        "description": "TODO",
+        "fleet-shinkawasaki": [
+          "rec9gs3vyEEbViZqv"
+        ],
+        "apis": [
+          "recJzsnocyO4cIDOe",
+          "recfgkKeG5DyAFhNW",
+          "recHYvq7XJQwDh8kf",
+          "recZLnkHAyzHc6z2s",
+          "reczDHAEgUkJLkcAK",
+          "recK2MzedyicCYDIC"
+        ],
+        "fleet-tsuruoka": [
+          "recH60umD9fEDvPyR"
+        ],
+        "serialized_api": true,
+        "robot_state": [
+          "recCzs7VcvbJ9Enko"
+        ]
+      }
+    },
+    {
+      "id": "recGUWHAKx3oPWfPq",
+      "createdTime": "2024-01-25T01:43:43.000Z",
+      "fields": {
+        "device_type": "Tecan_ADP",
+        "device_role": "Equipment",
+        "description": "TODO",
+        "fleet-shinkawasaki": [
+          "receW5OJ8OQzw4pwA"
+        ],
+        "apis": [
+          "recja3UnGaPLMJAoo",
+          "rec8QlWGjRukH7h7j"
+        ],
+        "serialized_api": true,
+        "robot_state": [
+          "recmCdbcERGfUMxiG"
+        ]
+      }
+    },
+    {
+      "id": "recI7hrTuxQ7fju1Z",
+      "createdTime": "2023-02-16T04:12:41.000Z",
+      "fields": {
+        "device_type": "Falcon Tube",
+        "device_role": "Container",
+        "description": "TODO",
+        "fleet-shinkawasaki": [
+          "recgpjfgvU2qa0sb5",
+          "recYgCDDLRYjPpAte"
+        ],
+        "apis": [
+          "recJzsnocyO4cIDOe",
+          "recfgkKeG5DyAFhNW",
+          "rec6EEEjwAT5bGnuZ",
+          "recBJc28r8rwqbFoS",
+          "recZLnkHAyzHc6z2s",
+          "reczDHAEgUkJLkcAK",
+          "recK2MzedyicCYDIC"
+        ],
+        "fleet-tsuruoka": [
+          "recOfRG7ApDTSdijr",
+          "recw6a4uQmzMxCqBA"
+        ],
+        "serialized_api": true,
+        "robot_state": [
+          "recQGPcFU0KMnq6Ss"
+        ]
+      }
+    },
+    {
+      "id": "recJecSEztzTPlLw1",
+      "createdTime": "2023-11-01T01:39:45.000Z",
+      "fields": {
+        "device_type": "RFIDXXXX",
+        "device_role": "Sensor",
+        "description": "[RFIDXYYZZ] : X is for version, YY is for the HAIVE number, and ZZ are for the slot number.",
+        "fleet-shinkawasaki": [
+          "recwCuJSJozBM6oSD",
+          "recWaZ1LYezP1PRE8",
+          "recwfLa0X05HnuPTm",
+          "recayJ4L8ycmrefhO",
+          "recXPmKkMwc4VDLfF",
+          "recDBAqPml0iXmpfZ"
+        ],
+        "streams": [
+          "recImfwZ8ampDhQW2"
+        ],
+        "apis": [
+          "recIqWcFRS3exe6k6"
+        ],
+        "serialized_api": true,
+        "robot_state": [
+          "rec9YP62iPpsg6BAr"
+        ]
+      }
+    },
+    {
+      "id": "recMNnepB44DJxu3t",
+      "createdTime": "2023-10-13T14:33:00.000Z",
+      "fields": {
+        "device_type": "Unknown",
+        "device_role": "Haive",
+        "description": "TODO",
+        "serialized_api": true,
+        "robot_state": [
+          "rec9YP62iPpsg6BAr"
+        ]
+      }
+    },
+    {
+      "id": "recMVzjzuKpvgoD7W",
+      "createdTime": "2023-02-16T04:12:41.000Z",
+      "fields": {
+        "device_type": "myCobot",
+        "device_role": "Bridge",
+        "description": "TODO",
+        "apis": [
+          "recGhOWKMpIJxkpmq",
+          "recL1HCd2cf8cx7jA",
+          "rec0pKxzuAiL7YlN2"
+        ],
+        "fleet-tsuruoka": [
+          "recZ21eWJGLR8cZu2"
+        ],
+        "robot_state": [
+          "recZ7H5UHOcMlEwET"
+        ]
+      }
+    },
+    {
+      "id": "recNQBEIbfOm4brep",
+      "createdTime": "2023-02-16T04:12:41.000Z",
+      "fields": {
+        "device_type": "Microplate",
+        "device_role": "Container",
+        "description": "TODO",
+        "fleet-shinkawasaki": [
+          "rec5XZGwQZGZuzhR8"
+        ],
+        "apis": [
+          "recJzsnocyO4cIDOe",
+          "recZLnkHAyzHc6z2s",
+          "reczDHAEgUkJLkcAK",
+          "recK2MzedyicCYDIC"
+        ],
+        "fleet-tsuruoka": [
+          "recDNx7nVuhscM7Zu"
+        ],
+        "serialized_api": true,
+        "robot_state": [
+          "recDGcW4qa5aBuasm"
+        ]
+      }
+    },
+    {
+      "id": "recQRJWtAgfwfyFZK",
+      "createdTime": "2023-02-16T04:12:41.000Z",
+      "fields": {
+        "device_type": "P200 Tip",
+        "device_role": "Container",
+        "description": "TODO",
+        "fleet-shinkawasaki": [
+          "recwwA1JE7g4HmeZ3"
+        ],
+        "apis": [
+          "recJzsnocyO4cIDOe",
+          "recZLnkHAyzHc6z2s",
+          "reczDHAEgUkJLkcAK",
+          "recK2MzedyicCYDIC"
+        ],
+        "fleet-tsuruoka": [
+          "rec4m8sAJCRxpz47p"
+        ],
+        "serialized_api": true,
+        "robot_state": [
+          "recOfiy6sVdvylmWO"
+        ]
+      }
+    },
+    {
+      "id": "recU0GlUwcjGn4Oip",
+      "createdTime": "2023-11-27T01:59:17.000Z",
+      "fields": {
+        "device_type": "Tube",
+        "device_role": "Consumable",
+        "description": "TODO",
+        "robot_state": [
+          "reczPW9R1MBkGRXJj"
+        ]
+      }
+    },
+    {
+      "id": "recWkSTOPHGNGbQlN",
+      "createdTime": "2023-10-27T07:04:09.000Z",
+      "fields": {
+        "device_type": "Vortexer",
+        "device_role": "Equipment",
+        "description": "TODO",
+        "fleet-shinkawasaki": [
+          "recSLRI8aZ684xb0k"
+        ],
+        "apis": [
+          "rec2yzkWSPvvme952",
+          "recHrye06ZhjaJl4s"
+        ],
+        "serialized_api": true,
+        "robot_state": [
+          "recu4EN2t9Av1wlzq"
+        ]
+      }
+    },
+    {
+      "id": "recXhARdyvuJ3Yqba",
+      "createdTime": "2023-02-16T04:12:41.000Z",
+      "fields": {
+        "device_type": "Thermocycler",
+        "device_role": "Equipment",
+        "description": "TODO",
+        "apis": [
+          "recTPgo3Py230sJP6",
+          "rec9HqlYRLGohqYbI"
+        ],
+        "fleet-tsuruoka": [
+          "reclOzYNLbjNXTZ6I"
+        ],
+        "robot_state": [
+          "recvMq7NU6aHRlUox"
+        ]
+      }
+    },
+    {
+      "id": "recZVNF465BLODWqz",
+      "createdTime": "2023-02-16T04:12:41.000Z",
+      "fields": {
+        "device_type": "P200 Attachment",
+        "device_role": "Container",
+        "description": "TODO",
+        "fleet-shinkawasaki": [
+          "recaIWwrbnHlveq8Z"
+        ],
+        "apis": [
+          "recJzsnocyO4cIDOe",
+          "recZLnkHAyzHc6z2s",
+          "reczDHAEgUkJLkcAK",
+          "recK2MzedyicCYDIC"
+        ],
+        "fleet-tsuruoka": [
+          "recIyuXigSiOdrggl"
+        ],
+        "serialized_api": true,
+        "robot_state": [
+          "recRbbtbkzw3NDz0z"
+        ]
+      }
+    },
+    {
+      "id": "recaKeCgIjUY06RmA",
+      "createdTime": "2023-02-16T04:12:41.000Z",
+      "fields": {
+        "device_type": "1.5mL Tube",
+        "device_role": "Container",
+        "description": "TODO",
+        "fleet-shinkawasaki": [
+          "recT5Kg7OUCEp3LXs"
+        ],
+        "apis": [
+          "recJzsnocyO4cIDOe",
+          "recfgkKeG5DyAFhNW",
+          "rec6EEEjwAT5bGnuZ",
+          "recBJc28r8rwqbFoS",
+          "recZLnkHAyzHc6z2s",
+          "reczDHAEgUkJLkcAK",
+          "recK2MzedyicCYDIC"
+        ],
+        "fleet-tsuruoka": [
+          "recrViHYTpd77gB5O"
+        ],
+        "serialized_api": true,
+        "robot_state": [
+          "recVpbEQI19OJRY5r"
+        ]
+      }
+    },
+    {
+      "id": "recaQ08pfrNeCcpp0",
+      "createdTime": "2023-02-16T04:09:53.000Z",
+      "fields": {
+        "device_type": "BaseHaive",
+        "device_role": "Haive",
+        "description": "TODO",
+        "fleet-shinkawasaki": [
+          "rec1jV89yH7iGRZEM"
+        ],
+        "apis": [
+          "recWaLdc0vfs8uqd1",
+          "rec4QYxGhgVUbZ5qX",
+          "recocqYE6qupBf9Qo",
+          "recOX0vMaD2LwqhmU",
+          "recRRaEliiTG4hrNm",
+          "recu4eNuJ1FjbQeAG",
+          "recsiuexAMgymTeUe",
+          "reczCM3odpotH9T60"
+        ],
+        "fleet-tsuruoka": [
+          "recz9tz0DcILo4PM8"
+        ],
+        "serialized_api": true,
+        "robot_state": [
+          "recRXW5JIj8UfswXP"
+        ]
+      }
+    },
+    {
+      "id": "recj3JUcLJQ2bOvbq",
+      "createdTime": "2023-02-16T04:09:53.000Z",
+      "fields": {
+        "device_type": "PCRHaive",
+        "device_role": "Haive",
+        "description": "TODO",
+        "fleet-shinkawasaki": [
+          "recITmWTTNjzFfnso"
+        ],
+        "fleet-tsuruoka": [
+          "rec5DOe9mLDB3z7ik"
+        ],
+        "robot_state": [
+          "rec97993bMYEXC7n0"
+        ]
+      }
+    },
+    {
+      "id": "recmay6QVtEXoTD37",
+      "createdTime": "2023-02-16T04:09:53.000Z",
+      "fields": {
+        "device_type": "DeltaHaive",
+        "device_role": "Haive",
+        "description": "TODO",
+        "fleet-shinkawasaki": [
+          "recfSao2ZLaqiZcab",
+          "rec8PedZPaKCMjxLs",
+          "recwlDx4aBlKuylYk",
+          "recNrIzYiVvVWh3Ul",
+          "rec6wcWFVhjCXg1aY"
+        ],
+        "apis": [
+          "recINYmlfJXrw97dn",
+          "recz1srMNzHdJKhZZ",
+          "rec5FD7F7MmyUrjkj",
+          "recCbAGcQLgTNgiIq",
+          "recWaLdc0vfs8uqd1",
+          "rec4QYxGhgVUbZ5qX",
+          "recocqYE6qupBf9Qo",
+          "recOX0vMaD2LwqhmU",
+          "recRRaEliiTG4hrNm",
+          "recwXrVSbZpeLIJTB",
+          "recxTTPcOzgT6bKw0",
+          "recm9D2w6RsHOT5hX",
+          "recS5hKLt6sPtFGvz",
+          "recCIuYVbwYUXKRRT",
+          "recu4eNuJ1FjbQeAG",
+          "recDvTczNRMtNYM2A",
+          "recAjfR2l4fC9GWeI",
+          "recZIjbKNiXnSaMDF",
+          "recsiuexAMgymTeUe",
+          "reczCM3odpotH9T60"
+        ],
+        "fleet-tsuruoka": [
+          "recNIIPT4gLT0c2ix",
+          "recGFMEQUFl5uwnTO"
+        ],
+        "serialized_api": true,
+        "robot_state": [
+          "recv6oeOd3osBjwRI"
+        ]
+      }
+    },
+    {
+      "id": "recn54Q8omezQ1iUY",
+      "createdTime": "2023-02-16T04:12:41.000Z",
+      "fields": {
+        "device_type": "P1000 Tip",
+        "device_role": "Container",
+        "description": "TODO",
+        "fleet-shinkawasaki": [
+          "recA0DQNB8LaBiPUd"
+        ],
+        "apis": [
+          "recJzsnocyO4cIDOe",
+          "recZLnkHAyzHc6z2s",
+          "reczDHAEgUkJLkcAK",
+          "recK2MzedyicCYDIC"
+        ],
+        "fleet-tsuruoka": [
+          "rec8QbhEGDmDjvF2z"
+        ],
+        "serialized_api": true,
+        "robot_state": [
+          "recJn5Jb2KXUDsekG"
+        ]
+      }
+    },
+    {
+      "id": "recwE0s6wUMOp5she",
+      "createdTime": "2023-02-16T04:12:41.000Z",
+      "fields": {
+        "device_type": "myCobot Gripper",
+        "device_role": "Bridge",
+        "description": "TODO",
+        "apis": [
+          "recdFCKk7OyqokYi0"
+        ],
+        "fleet-tsuruoka": [
+          "recf5TWJKogbk2aD3"
+        ],
+        "serialized_api": true,
+        "robot_state": [
+          "recyVtAnyCLF2jSZM"
+        ]
+      }
+    }
+  ]
+}

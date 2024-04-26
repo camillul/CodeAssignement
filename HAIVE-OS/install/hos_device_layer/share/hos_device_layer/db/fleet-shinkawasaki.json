@@ -1,0 +1,382 @@
+{
+  "records": [
+    {
+      "id": "rec1jV89yH7iGRZEM",
+      "createdTime": "2023-02-16T04:11:27.000Z",
+      "fields": {
+        "device_id": "H4003",
+        "device_uid": 2,
+        "device_type": [
+          "recaQ08pfrNeCcpp0"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "rec5XZGwQZGZuzhR8",
+      "createdTime": "2023-02-16T04:17:45.000Z",
+      "fields": {
+        "device_id": "C4012",
+        "device_uid": 10717425,
+        "device_type": [
+          "recNQBEIbfOm4brep"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "rec6wcWFVhjCXg1aY",
+      "createdTime": "2023-09-25T05:17:10.000Z",
+      "fields": {
+        "device_id": "DebugH4001",
+        "device_uid": 0,
+        "device_type": [
+          "recmay6QVtEXoTD37"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "rec8PedZPaKCMjxLs",
+      "createdTime": "2023-02-16T04:11:27.000Z",
+      "fields": {
+        "device_id": "H4002",
+        "device_uid": 10749883,
+        "device_type": [
+          "recmay6QVtEXoTD37"
+        ],
+        "child_device": [
+          "recWaZ1LYezP1PRE8",
+          "recwCuJSJozBM6oSD"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "rec9gs3vyEEbViZqv",
+      "createdTime": "2023-02-16T04:17:45.000Z",
+      "fields": {
+        "device_id": "C4003",
+        "device_uid": 10723696,
+        "device_type": [
+          "recFxYM6aGuA3gIWs"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "recA0DQNB8LaBiPUd",
+      "createdTime": "2023-02-16T04:17:45.000Z",
+      "fields": {
+        "device_id": "C4006",
+        "device_uid": 7,
+        "device_type": [
+          "recn54Q8omezQ1iUY"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "recDBAqPml0iXmpfZ",
+      "createdTime": "2023-11-01T01:41:48.000Z",
+      "fields": {
+        "device_id": "RFID50101",
+        "device_uid": 11238764,
+        "device_type": [
+          "recJecSEztzTPlLw1"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "recHP1wBHoNZey8mT",
+      "createdTime": "2023-02-16T04:17:45.000Z",
+      "fields": {
+        "device_id": "C4007",
+        "device_uid": 8,
+        "device_type": [
+          "recF0MbH6LeIXJPk4"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "recITmWTTNjzFfnso",
+      "createdTime": "2024-01-26T00:12:13.000Z",
+      "fields": {
+        "device_id": "PCR5001",
+        "device_uid": 26427211,
+        "device_type": [
+          "recj3JUcLJQ2bOvbq"
+        ],
+        "serial_info": "ttyUSB1",
+        "communication_target": [
+          "recR4Fa929E35TVKg"
+        ],
+        "baud_rate": "9600"
+      }
+    },
+    {
+      "id": "recNrIzYiVvVWh3Ul",
+      "createdTime": "2023-08-28T07:18:33.000Z",
+      "fields": {
+        "device_id": "RSH4001",
+        "device_uid": 13212719,
+        "device_type": [
+          "recmay6QVtEXoTD37"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "recOo12asqWssngNq",
+      "createdTime": "2023-02-16T04:17:45.000Z",
+      "fields": {
+        "device_id": "S4001",
+        "device_uid": 13,
+        "device_type": [
+          "rec3FJ2pb6hUp6KQ2"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "recSLRI8aZ684xb0k",
+      "createdTime": "2023-10-27T07:04:44.000Z",
+      "fields": {
+        "device_id": "E5001",
+        "device_uid": 12875984,
+        "device_type": [
+          "recWkSTOPHGNGbQlN"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "recT5Kg7OUCEp3LXs",
+      "createdTime": "2023-02-16T04:17:45.000Z",
+      "fields": {
+        "device_id": "C4002",
+        "device_uid": 4,
+        "device_type": [
+          "recaKeCgIjUY06RmA"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "recWaZ1LYezP1PRE8",
+      "createdTime": "2023-11-01T01:42:21.000Z",
+      "fields": {
+        "device_id": "RFID50201",
+        "device_uid": 11283352,
+        "device_type": [
+          "recJecSEztzTPlLw1"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "recXPmKkMwc4VDLfF",
+      "createdTime": "2023-11-01T01:42:07.000Z",
+      "fields": {
+        "device_id": "RFID50105",
+        "device_uid": 11236316,
+        "device_type": [
+          "recJecSEztzTPlLw1"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "recYgCDDLRYjPpAte",
+      "createdTime": "2023-02-16T04:17:45.000Z",
+      "fields": {
+        "device_id": "C4008",
+        "device_uid": 9,
+        "device_type": [
+          "recI7hrTuxQ7fju1Z"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "recaIWwrbnHlveq8Z",
+      "createdTime": "2023-02-16T04:17:45.000Z",
+      "fields": {
+        "device_id": "C4010",
+        "device_uid": 10,
+        "device_type": [
+          "recZVNF465BLODWqz"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "recayJ4L8ycmrefhO",
+      "createdTime": "2023-11-01T01:42:00.000Z",
+      "fields": {
+        "device_id": "RFID50103",
+        "device_uid": 13343724,
+        "device_type": [
+          "recJecSEztzTPlLw1"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "receW5OJ8OQzw4pwA",
+      "createdTime": "2024-01-25T01:44:05.000Z",
+      "fields": {
+        "device_id": "TC5001",
+        "device_uid": 87493018,
+        "device_type": [
+          "recGUWHAKx3oPWfPq"
+        ],
+        "can_info": "ttyUSB0",
+        "communication_target": [
+          "recaaVPqpJ9JWdpnJ"
+        ],
+        "baud_rate": "9600"
+      }
+    },
+    {
+      "id": "recfSao2ZLaqiZcab",
+      "createdTime": "2023-02-16T04:11:27.000Z",
+      "fields": {
+        "device_id": "H4001",
+        "device_uid": 13212703,
+        "device_type": [
+          "recmay6QVtEXoTD37"
+        ],
+        "child_device": [
+          "recwfLa0X05HnuPTm",
+          "recXPmKkMwc4VDLfF",
+          "recayJ4L8ycmrefhO",
+          "recDBAqPml0iXmpfZ"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "recgpjfgvU2qa0sb5",
+      "createdTime": "2023-02-16T04:17:45.000Z",
+      "fields": {
+        "device_id": "C4001",
+        "device_uid": 3,
+        "device_type": [
+          "recI7hrTuxQ7fju1Z"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "recgx0kaGzo3AuIj1",
+      "createdTime": "2023-02-16T04:17:45.000Z",
+      "fields": {
+        "device_id": "C4011",
+        "device_uid": 11,
+        "device_type": [
+          "rec526qF3FVvJ1jnc"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "recwCuJSJozBM6oSD",
+      "createdTime": "2023-11-01T01:43:37.000Z",
+      "fields": {
+        "device_id": "RFID50209",
+        "device_uid": 11238832,
+        "device_type": [
+          "recJecSEztzTPlLw1"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "recwfLa0X05HnuPTm",
+      "createdTime": "2023-11-01T01:42:14.000Z",
+      "fields": {
+        "device_id": "RFID50107",
+        "device_uid": 13343724,
+        "device_type": [
+          "recJecSEztzTPlLw1"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "recwlDx4aBlKuylYk",
+      "createdTime": "2023-07-24T06:28:37.000Z",
+      "fields": {
+        "device_id": "S1H4001",
+        "device_uid": 10778741,
+        "device_type": [
+          "recmay6QVtEXoTD37"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    },
+    {
+      "id": "recwwA1JE7g4HmeZ3",
+      "createdTime": "2023-02-16T04:17:45.000Z",
+      "fields": {
+        "device_id": "C4005",
+        "device_uid": 6,
+        "device_type": [
+          "recQRJWtAgfwfyFZK"
+        ],
+        "communication_target": [
+          "reccXN7NAXQPU3Twi"
+        ]
+      }
+    }
+  ]
+}

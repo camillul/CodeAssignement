@@ -1,0 +1,23 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from hos_interfaces/srv/GetStateAPICall.srv
+// generated code does not contain a copyright notice
+
+
+module hos_interfaces {
+  module srv {
+    struct GetStateAPICall_Request {
+      string device_id;
+
+      int8 state_type;
+    };
+    struct GetStateAPICall_Response {
+      boolean is_valid;
+
+      string error;
+
+      uint32 task_id;
+
+      string result_jsons;
+    };
+  };
+};

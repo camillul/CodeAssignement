@@ -1,0 +1,1 @@
+{"meta_data": "day_version_haive", "devices_to_update": [{"device_id": "C4001", "args": {"turntable_slot": 5, "is_connected": true}}]}

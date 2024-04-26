@@ -1,0 +1,287 @@
+{
+  "layout": {
+    "name": "Kusakabe Challenge layout",
+    "data": [
+      {
+        "haiveID": "H4001",
+        "haivePosition": [
+          1,
+          1
+        ],
+        "attachment": "Opener Attachment",
+        "tools": [],
+        "containerIDs": [
+          "C4003",
+          "C4002",
+          "C4001"
+        ],
+        "containerPositions": {
+          "C4003": 1,
+          "C4002": 9,
+          "C4001": 11
+        }
+      },
+      {
+        "haiveID": "H4003",
+        "haivePosition": [
+          2,
+          1
+        ],
+        "attachment": null,
+        "tools": [],
+        "containerIDs": [
+          "C4005",
+          "C4006",
+          "C4010",
+          "C4011"
+        ],
+        "containerPositions": {
+          "C4005": 1,
+          "C4006": 3,
+          "C4010": 5,
+          "C4011": 11
+        }
+      },
+      {
+        "haiveID": "H4002",
+        "haivePosition": [
+          2,
+          2
+        ],
+        "attachment": null,
+        "tools": [],
+        "containerIDs": [
+          "C4007"
+        ],
+        "containerPositions": {
+          "C4007": 3
+        }
+      }
+    ]
+  },
+  "protocol": [
+    {
+      "H4001": [
+        {
+          "CommandType": "POWER",
+          "CommandName": "SLOT_POWER",
+          "Args": [
+            0,
+            "ON"
+          ],
+          "gssRow": 3
+        },
+        {
+          "CommandType": "POWER",
+          "CommandName": "SLOT_POWER",
+          "Args": [
+            1,
+            "ON"
+          ],
+          "gssRow": 4
+        },
+        {
+          "CommandType": "POWER",
+          "CommandName": "SLOT_POWER",
+          "Args": [
+            3,
+            "ON"
+          ],
+          "gssRow": 5
+        },
+        {
+          "CommandType": "POWER",
+          "CommandName": "SLOT_POWER",
+          "Args": [
+            5,
+            "ON"
+          ],
+          "gssRow": 6
+        },
+        {
+          "CommandType": "POWER",
+          "CommandName": "SLOT_POWER",
+          "Args": [
+            7,
+            "ON"
+          ],
+          "gssRow": 7
+        },
+        {
+          "CommandType": "POWER",
+          "CommandName": "SLOT_POWER",
+          "Args": [
+            9,
+            "ON"
+          ],
+          "gssRow": 8
+        },
+        {
+          "CommandType": "POWER",
+          "CommandName": "SLOT_POWER",
+          "Args": [
+            11,
+            "ON"
+          ],
+          "gssRow": 9
+        },
+        {
+          "CommandType": "TURNTABLE",
+          "CommandName": "TURNTABLE",
+          "Args": [
+            1,
+            100
+          ],
+          "gssRow": 10
+        },
+        {
+          "CommandType": "TURNTABLE",
+          "CommandName": "TURNTABLE",
+          "Args": [
+            3,
+            100
+          ],
+          "gssRow": 11
+        },
+        {
+          "CommandType": "TURNTABLE",
+          "CommandName": "TURNTABLE",
+          "Args": [
+            5,
+            100
+          ],
+          "gssRow": 12
+        },
+        {
+          "CommandType": "TURNTABLE",
+          "CommandName": "TURNTABLE",
+          "Args": [
+            7,
+            100
+          ],
+          "gssRow": 13
+        },
+        {
+          "CommandType": "TURNTABLE",
+          "CommandName": "TURNTABLE",
+          "Args": [
+            9,
+            100
+          ],
+          "gssRow": 14
+        },
+        {
+          "CommandType": "TURNTABLE",
+          "CommandName": "TURNTABLE",
+          "Args": [
+            11,
+            100
+          ],
+          "gssRow": 15
+        },
+        {
+          "CommandType": "TURNTABLE",
+          "CommandName": "TURNTABLE",
+          "Args": [
+            5,
+            100
+          ],
+          "gssRow": 16
+        }
+      ]
+    },
+    {
+      "C4001": [
+        {
+          "CommandType": "MOVE",
+          "CommandName": "MOVE",
+          "Args": [
+            2,
+            100
+          ],
+          "gssRow": 17
+        }
+      ]
+    },
+    {
+      "C4001": [
+        {
+          "CommandType": "MOVE",
+          "CommandName": "MOVE",
+          "Args": [
+            -2,
+            100
+          ],
+          "gssRow": 19
+        }
+      ]
+    },
+    {
+      "H4001": [
+        {
+          "CommandType": "POWER",
+          "CommandName": "SLOT_POWER",
+          "Args": [
+            0,
+            "OFF"
+          ],
+          "gssRow": 111
+        },
+        {
+          "CommandType": "POWER",
+          "CommandName": "SLOT_POWER",
+          "Args": [
+            1,
+            "OFF"
+          ],
+          "gssRow": 112
+        },
+        {
+          "CommandType": "POWER",
+          "CommandName": "SLOT_POWER",
+          "Args": [
+            3,
+            "OFF"
+          ],
+          "gssRow": 113
+        },
+        {
+          "CommandType": "POWER",
+          "CommandName": "SLOT_POWER",
+          "Args": [
+            5,
+            "OFF"
+          ],
+          "gssRow": 114
+        },
+        {
+          "CommandType": "POWER",
+          "CommandName": "SLOT_POWER",
+          "Args": [
+            7,
+            "OFF"
+          ],
+          "gssRow": 115
+        },
+        {
+          "CommandType": "POWER",
+          "CommandName": "SLOT_POWER",
+          "Args": [
+            9,
+            "OFF"
+          ],
+          "gssRow": 116
+        },
+        {
+          "CommandType": "POWER",
+          "CommandName": "SLOT_POWER",
+          "Args": [
+            11,
+            "OFF"
+          ],
+          "gssRow": 117
+        }
+      ]
+    }
+  ]
+}

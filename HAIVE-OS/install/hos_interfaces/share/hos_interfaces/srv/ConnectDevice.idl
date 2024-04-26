@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from hos_interfaces/srv/ConnectDevice.srv
+// generated code does not contain a copyright notice
+
+
+module hos_interfaces {
+  module srv {
+    struct ConnectDevice_Request {
+      uint32 uid;
+    };
+    struct ConnectDevice_Response {
+      boolean success;
+
+      string error;
+    };
+  };
+};

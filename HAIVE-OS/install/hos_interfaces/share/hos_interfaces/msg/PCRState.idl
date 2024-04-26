@@ -1,0 +1,22 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from hos_interfaces/msg/state_msgs/PCRState.msg
+// generated code does not contain a copyright notice
+
+
+module hos_interfaces {
+  module msg {
+    struct PCRState {
+      boolean is_connected;
+
+      float last_ping;
+
+      string device_uid;
+
+      boolean is_reconnected;
+
+      string device_type;
+
+      string device_id;
+    };
+  };
+};

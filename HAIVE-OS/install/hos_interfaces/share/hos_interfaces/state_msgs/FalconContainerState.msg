@@ -1,0 +1,11 @@
+bool is_flipped
+uint8 slot_position
+string external_resources
+float32 temperature
+bool is_movable
+bool is_connected
+float32 last_ping
+string device_uid
+bool is_reconnected
+string device_type
+string device_id

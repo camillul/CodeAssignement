@@ -1,0 +1,4 @@
+string device_id
+uint32 device_uid
+string device_type
+float64 event_time_s

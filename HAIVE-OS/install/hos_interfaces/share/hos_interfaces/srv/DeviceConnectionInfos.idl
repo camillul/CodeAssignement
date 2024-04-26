@@ -1,0 +1,16 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from hos_interfaces/srv/DeviceConnectionInfos.srv
+// generated code does not contain a copyright notice
+
+#include "hos_interfaces/msg/ConnectionInfo.idl"
+
+module hos_interfaces {
+  module srv {
+    struct DeviceConnectionInfos_Request {
+      uint8 structure_needs_at_least_one_member;
+    };
+    struct DeviceConnectionInfos_Response {
+      sequence<hos_interfaces::msg::ConnectionInfo> device_infos;
+    };
+  };
+};
