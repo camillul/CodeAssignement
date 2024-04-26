@@ -52,18 +52,18 @@ def generate_launch_description():
         description="Flag to use local copy of db data. (Increases bootup time)",
     )
 
-    start_rosbridge_server = TimerAction(period=wait_for_rosbridge_server_s, actions=[IncludeLaunchDescription(
-        AnyLaunchDescriptionSource(
-            PathJoinSubstitution([
-                FindPackageShare('rosbridge_server'),
-                'launch/rosbridge_websocket_launch.xml'
-            ])
-        ),
-        launch_arguments={
-            'port': '9091',
-        }.items()
-    )
-    ])
+    # start_rosbridge_server = TimerAction(period=wait_for_rosbridge_server_s, actions=[IncludeLaunchDescription(
+    #     AnyLaunchDescriptionSource(
+    #         PathJoinSubstitution([
+    #             FindPackageShare('rosbridge_server'),
+    #             'launch/rosbridge_websocket_launch.xml'
+    #         ])
+    #     ),
+    #     launch_arguments={
+    #         'port': '9091',
+    #     }.items()
+    # )
+    # ])
 
     show_banner = TimerAction(period=wait_for_rosbridge_server_s, actions=[LogInfo(msg=HAIVE_OS)])
 
@@ -114,7 +114,7 @@ def generate_launch_description():
     ld.add_action(local_device_db_arg)
 
     # Add actions to launch nodes
-    ld.add_action(start_rosbridge_server)
+    # ld.add_action(start_rosbridge_server)
     ld.add_action(show_banner)
     ld.add_action(start_device_manager)
     ld.add_action(start_state_manager)
