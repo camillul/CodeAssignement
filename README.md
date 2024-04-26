@@ -2,7 +2,7 @@
 
 HAIVE-OS was the ROS architecture design to handle all the robot's state space representation, connection, communication. Here we have only a snapshot of it, architecture that I mainly designed and developped with Johannes (former collegue).
 You can also acces the Documentation here, explaining the main packages of the HAIVE-OS
-[OpenAI's website](https://molcure.github.io/HAIVE-OS_Pages/#/)
+[HAIVE-OS Documentation](https://molcure.github.io/HAIVE-OS_Pages/#/)
 
 ## Installation 
 
