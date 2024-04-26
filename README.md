@@ -1,4 +1,4 @@
-#HAIVE-OS (Snapshot)
+# HAIVE-OS (Snapshot)
 
 HAIVE-OS was the ROS architecture design to handle all the robot's state space representation, connection, communication. Here we have only a snapshot of it, architecture that I mainly designed and developped with Johannes (former collegue).
 You can also acces the Documentation here, explaining the main packages of the HAIVE-OS
