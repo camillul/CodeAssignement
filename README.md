@@ -9,20 +9,22 @@ You can also acces the Documentation here, explaining the main packages of the H
 Follow these step to install a docker image for ros2 since HAIVE-OS was running on ros2 humble.
 https://docs.ros.org/en/humble/How-To-Guides/Run-2-nodes-in-single-or-separate-docker-containers.html
 
-Once you're running the container inside the contaienr run those command :
+Once you're running the container, run those command :
 
+First in your computer shell :
 ```shell
+docker cp CodeAssignement <your_container_id>:boot/
+```
+
+Then in docker container shell :
+```shell
+cd boot/CodeAssignement/HAIVE-OS
 apt-get update
-```
-
-```shell
 apt-get install python3-pip
-```
-
-```shell
-apt-get pip install requests
-```
-
-```shell
+pip install requests
+colcon build
+. install/setup.bash
 ros2 launch hos_run hos_run.launch.py device_db:=--local-db
 ```
+
+This should run the ROS2 environnement and the HAIVE-OS feel free to check the envrionnement with rqt or any tool, Please contact camille.ulrb@gmail.com for any futher information.
