@@ -7,7 +7,7 @@
   <maintainer email="przybilla@molcure.io">ubuntu</maintainer>
   <license>TODO: License declaration</license>
 
-  <!-- <depend>rosbridge_server</depend> -->
+  <depend>rosbridge_server</depend>
   <depend>python3-pip</depend>
   <depend>roslibpy-pip</depend>
   <depend>rclpy</depend>
