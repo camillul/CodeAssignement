@@ -23,8 +23,20 @@ apt-get update
 apt-get install python3-pip
 pip install requests
 colcon build
+
+```
+## Run
+Here the steps to run the code
+
+```shell
 . install/setup.bash
 ros2 launch hos_run hos_run.launch.py device_db:=--local-db
 ```
 
 This should run the ROS2 environnement and the HAIVE-OS feel free to check the envrionnement with rqt or any tool, Please contact camille.ulrb@gmail.com for any futher information.
+
+You can also run the test from the hos_robot_state package 
+
+```shell
+pytest -s src/hos_robot_state/test/test_haive_state.py
+```
